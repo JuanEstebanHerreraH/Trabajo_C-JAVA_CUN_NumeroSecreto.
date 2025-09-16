@@ -22,11 +22,3 @@ Según la cantidad de aciertos, se asigna una nota:
 - 📝 Evaluación automática de la nota.  
 - ⚡ Implementaciones en **Java** y **C++**.  
 
----
-
-## 🚀 Cómo ejecutar
-
-### 🔹 En Java
-```bash
-javac Parcial.java
-java Parcial
